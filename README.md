@@ -1,1 +1,1 @@
-# Speach_Recognition_Website
+# Speech_Recognition_Website
